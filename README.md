@@ -2,7 +2,9 @@
 
 Welcome to Decentralized React NotesKeeper, a note-keeping application built using ReactJS and hosted on DFINITY's Internet Computer (ICP). By leveraging the capabilities of ICP, this app provides a decentralized and secure environment for managing your notes without the need for a traditional database management system.
 
-**URL:** [Decentralized React NotesKeeper](https://wdh76-myaaa-aaaal-adoga-cai.icp0.io/)
+**Frontend Link:** [Frontend- Decentralized React NotesKeeper](https://wdh76-myaaa-aaaal-adoga-cai.icp0.io/)
+
+**Backend Link:** [Cannister Backend- Decentralized React NotesKeeper](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=wwaot-nqaaa-aaaal-adofq-cai)
 
 ## Features
 
