@@ -1,0 +1,30 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+# INTERNET IDENTIY PASSWORD
+051174
+
+# Hosted Cannister Frontend URL
+https://wdh76-myaaa-aaaal-adoga-cai.icp0.io/
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+
+# generated files
+src/declarations/
+
+# rust
+target/
+
+# frontend code
+node_modules/
+dist/
+
+# environment variables
+.env
